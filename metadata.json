@@ -1,0 +1,6 @@
+{
+  "name": "VoiceFlow",
+  "description": "A professional client for Cartesia Voice Change with custom voice mappings, real-time recording, and polished playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
